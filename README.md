@@ -2,7 +2,7 @@
 
 App web para llevar el control de gastos personales. Hecha con Next.js 16 (App Router), TypeScript, Tailwind CSS y Supabase, usando IA como copiloto de desarrollo (ver [VIBE_CODING.md](./VIBE_CODING.md)).
 
-**Despliegue:** https://TU-PROYECTO.vercel.app  <!-- cambiar por el enlace real -->
+**Despliegue:** https://github.com/Elmerlopez81/mis-gastos.git  <!-- cambiar por el enlace real -->
 
 ## Qué hace
 
@@ -26,7 +26,7 @@ Requisitos: Node.js 20 o superior y una cuenta gratuita de Supabase.
 1. Clonar el repositorio e instalar dependencias:
 
    ```bash
-   git clone https://github.com/TU-USUARIO/mis-gastos.git
+   git clone https://github.com/Elmerlopez81/mis-gastos.git
    cd mis-gastos
    npm install
    ```
